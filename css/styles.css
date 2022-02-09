@@ -1,0 +1,66 @@
+.container-fluid {
+  padding: 30px;
+}
+.nav li {
+  display: inline-block;
+  text-align: center;
+}
+
+#logopart {
+  text-align: center;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+h1,h2 {
+  font-family: "Lobster", cursive;
+  letter-spacing: 3px;
+  font-size: 4em;
+  font-weight: 400;
+  color: hsla(299, 47%, 28%, 0.75);
+
+  /*   hsla(240, 50%, 30%, 0.75); */
+}
+h5 {
+  color: hsla(299, 47%, 28%, 0.45);
+  font-size: 18px;
+  letter-spacing: 2px;
+  font-family: "Lobster", cursive;
+}
+
+hr {
+  align: center;
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px hsla(240, 50%, 30%, 0.25);
+  padding-bottom: 2px;
+  margin-bottom: 2px;
+
+  /*   border-top:1px, solid, blue;
+  border-bottom:1px, solid, rgba(0,0,0,0.2); */
+}
+.navbar-default > li > a {
+  color: hsla(299, 47%, 28%, 0.75);
+  font-family: "Lobster", cursive;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+}
+.navbar-default > a {
+  color: hsla(299, 47%, 28%, 0.75);
+  font-family: "Lobster", cursive;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+}
+.container-fluid {
+  margin: 0px 20px 0px 20px;
+}
+
+.darkcolor {
+  color: hsla(299, 57%, 30%, 0.8);
+}
+.jumbotron {
+  text-align: center;
+}
+p.lead {
+  font-family: "Srisakdi", cursive;
+  font-size: 22px;
+}
